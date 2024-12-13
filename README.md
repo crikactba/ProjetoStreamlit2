@@ -7,3 +7,4 @@ Arquivos:
 * Bank-Branding.jpg: Imagem de inicio página do deploy.
 * telmarketing_icon.png: Imagem que fica na aba da página do deploy.
 * streamlit-app1-2024-12-13-08-12-77: Video apresentando o deploy criado com o aplicativo Streamlit.
+[Uploading streamlit-app1-2024-12-13-08-12-77.webm…]()
